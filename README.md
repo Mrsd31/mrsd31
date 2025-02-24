@@ -5,9 +5,9 @@
 
 ## olá! Eu sou o Sidney Silva 👋
 
+## Um pouco sobre mim 😃
 
-- 🔭 Hoje trabalho com back-end
-- 🌱 Estudo Ciência de dados e python
+Me chamo Sidney, tenho 22 anos, trabalho com back-end e estou começando na área de Ciência de Dados. Curioso e sempre buscando aprender mais, está mergulhando no mundo da programação, explorando códigos, bancos de dados e algoritmos para transformar dados em conhecimento. 🚀
 
   <div style="display: inline_block"><br>
   <img align="center" alt="mrsd-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
